@@ -1,5 +1,6 @@
 import csv
 import sys
+import numpy
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 from sklearn.model_selection import train_test_split
